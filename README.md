@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CSS, HTML, JavaScript
+- 🌱 I’m currently working with Vue JS
 
