@@ -1,4 +1,4 @@
-### Olá sou Fabio, desenvolvedor autodidata há 1,5 anos.
+### Olá sou Fabio, desenvolvedor autodidata há 1,5 ano.
 
 Atualmente trabalho com: 
 - Vue.js 
