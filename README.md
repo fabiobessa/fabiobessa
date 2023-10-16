@@ -1,4 +1,4 @@
-### Olá sou Fabio, desenvolvedor autodidata há 1,5 ano.
+### Olá sou Fabio, desenvolvedor front-end.
 
 Atualmente trabalho com: 
 - Vue.js 
